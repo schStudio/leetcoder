@@ -36,6 +36,7 @@ public class ContainsDuplicated2 {
     }
 	
 	/*
+	 * URL: https://leetcode.com/problems/contains-duplicate-ii/
 	 * First version: using HashSet
 	 * Result: Accepted
 	 * Time: O(n), Memory: O(k)
